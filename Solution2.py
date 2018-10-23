@@ -1,5 +1,3 @@
-import math
-
 primeNumbersList = [2] #For this solution we have a list storing our prime numbers, we start with the number 2 in it
 primeNumbersFound = 1 #Counter for prime numbers found, starts at 1 since we are including the number 2 from the start
 currentNumber = 2 #The number we start testing with, at the beginning of the first loop it'll increment to 3
